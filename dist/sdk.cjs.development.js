@@ -20,7 +20,7 @@ var IUniswapV2Pair = _interopDefault(require('@uniswap/v2-core/build/IUniswapV2P
 var _SOLIDITY_TYPE_MAXIMA;
 
 (function (ChainId) {
-  ChainId[ChainId["MAINNET"] = 2000] = "MAINNET";
+  ChainId[ChainId["MAINNET"] = 42161] = "MAINNET";
   ChainId[ChainId["BSCTESTNET"] = 97] = "BSCTESTNET";
 })(exports.ChainId || (exports.ChainId = {}));
 
